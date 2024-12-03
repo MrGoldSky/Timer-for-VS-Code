@@ -1,7 +1,7 @@
 {
   "name": "project-timer",
-  "displayName": "Project Timer",
-  "description": "Timer for VS Code",
+  "displayName": "Timer for VS Code",
+  "description": "Таймер для IDE VS Code. Показывает, сколько времени вы провели в конкретном проекте.\nФункционал: Пуск, Пауза, Сброс таймера, Просмотр статистики.",
   "publisher": "GoldSky",
   "version": "0.0.1",
   "engines": {
